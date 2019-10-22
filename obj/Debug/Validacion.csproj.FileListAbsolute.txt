@@ -1,0 +1,6 @@
+c:\users\18734602-9\documents\visual studio 2013\Projects\Validacion\Validacion\obj\Debug\Validacion.csprojResolveAssemblyReference.cache
+c:\users\18734602-9\documents\visual studio 2013\Projects\Validacion\Validacion\bin\Validacion.dll.config
+c:\users\18734602-9\documents\visual studio 2013\Projects\Validacion\Validacion\bin\Validacion.dll
+c:\users\18734602-9\documents\visual studio 2013\Projects\Validacion\Validacion\bin\Validacion.pdb
+c:\users\18734602-9\documents\visual studio 2013\Projects\Validacion\Validacion\obj\Debug\Validacion.dll
+c:\users\18734602-9\documents\visual studio 2013\Projects\Validacion\Validacion\obj\Debug\Validacion.pdb
